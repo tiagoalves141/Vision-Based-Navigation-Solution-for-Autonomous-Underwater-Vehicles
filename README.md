@@ -2,7 +2,7 @@
 
 #-----------------------------------------------------------------------------#
 
-For more details, business enquiries please contact me to tiago.martim.alves@gmail.com
+For more details, business inquiries please contact me to tiago.martim.alves@gmail.com
 
 If you want to have access to the full deep underwater dataset please contact me to my e-mail above.
 
