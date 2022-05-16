@@ -1,9 +1,14 @@
 # Vision-Based-Navigation-Solution-for-Autonomous-Underwater-Vehicles
 
+#--------------------------------------------------------------------------------------------------#
+#--------------------------------------------------------------------------------------------------#
+
 For more details, business enquiries please contact me to tiago.martim.alves@gmail.com
 
 If you want to have access to the full deep underwater dataset please contact me to my e-mail above.
 
+#--------------------------------------------------------------------------------------------------#
+#--------------------------------------------------------------------------------------------------#
 Brief summary of what this project's files do. 
 
 Sample_script.py was used to sample frames from video footage
